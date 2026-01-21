@@ -5,6 +5,7 @@ Analyse daily social media usage across seven platforms to identify over- and un
 
 ## Dataset
 Social Media Usage and Emotional Well-Being dataset sourced from Kaggle.
+**Note:** The original dataset contains approximately 1,000 records. After import and data quality checks, 924 records were retained for analysis due to missing or invalid entries.
 
 ## Methodology
 - Calculated average daily time spent (minutes) per social media platform
